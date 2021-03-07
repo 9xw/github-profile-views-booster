@@ -1,4 +1,4 @@
-# GiHub Profile Views Booster
+# GitHub Profile Views Booster
 A script using requests to boost views on profile badges such as shields.io and komarev.com with proxies.
 
 # Information

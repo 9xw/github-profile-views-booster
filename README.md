@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/watchers/9xw/profile-views-boost?style=social) ![](https://img.shields.io/github/stars/9xw/profile-views-boost?style=social) ![](https://img.shields.io/github/forks/9xw/profile-views-boost?style=social)
+![](https://img.shields.io/github/watchers/qro/profile-views-boost?style=social) ![](https://img.shields.io/github/stars/qro/profile-views-boost?style=social) ![](https://img.shields.io/github/forks/qro/profile-views-boost?style=social)
 
 # Profile Views Booster
 A script using requests to boost views on profile badges such as shields.io and komarev.com with proxies.

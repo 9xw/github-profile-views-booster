@@ -1,14 +1,20 @@
-![](https://img.shields.io/github/watchers/qro/profile-views-boost?style=social) ![](https://img.shields.io/github/stars/qro/profile-views-boost?style=social) ![](https://img.shields.io/github/forks/qro/profile-views-boost?style=social)
+<p align="center">
+	<a href="https://www.python.org/">
+    	<img src="https://img.shields.io/badge/python-3.10.2+-3776AB">
+     </a>
+     <a href="https://github.com/qro/profile-views-boost/blob/master/LICENSE">
+    	<img src="https://img.shields.io/badge/License-WTFPL-3776AB">
+     </a>
+</p>
 
-# Profile Views Booster
-A script using requests to boost views on profile badges such as shields.io and komarev.com with proxies.
+<h1 align="center">
+    🚀 Profile views boost - Boost your README badge.
+</h1>
+<p align="center">
+    Boost badges such as shields.io, komarev.com and more!
+ </p>
 
-# Information
-- This was requested from a friend a while back.
-- This can basically pretty much be abused anywhere if you use your head.
-- Proxies are required to have better use of this script, make sure that there is a proxies.txt file full of them. 
-- If you have a shields.io badge on your .md file or repository, make sure to paste your ```https://camo.githubusercontent.com/``` link. 
-- If you have a komarev.com badge, use the link they provide you.
+## ℹ️ Information
 - If you need any support, pm my <a href="https://t.me/afqro">telegram</a>.
 
 ---

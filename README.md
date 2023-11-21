@@ -1,5 +1,19 @@
-# 🚀 Profile views boost - Boost your README badge.
-Boost badges such as shields.io, komarev.com and more!
+<p align="center">
+	<a href="https://www.python.org/">
+    	<img src="https://img.shields.io/badge/python-3.12+-3776AB">
+     </a>
+     <a href="https://github.com/qro/gmail-spammer/blob/master/LICENSE">
+    	<img src="https://img.shields.io/badge/License-WTFPL-3776AB">
+     </a>
+</p>
+
+
+<h1 align="center">
+    🚀 Profile views boost - Boost your README badge.
+</h1>
+<p align="center">
+    Boost badges such as shields.io, komarev.com and more!
+ </p>
 
 ## 🛠️ Installation
 [Python](https://www.python.org/downloads/) must be installed on your computer; please get the most recent version. 
